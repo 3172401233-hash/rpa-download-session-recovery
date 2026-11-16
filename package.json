@@ -1,0 +1,13 @@
+{
+  "name": "rpa-download-session-recovery",
+  "version": "0.1.0",
+  "description": "RPA download recovery library: session expiry, checkpoints, expired signed URLs, duplicate and error-page handling",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
